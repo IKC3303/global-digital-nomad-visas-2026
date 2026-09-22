@@ -35,3 +35,4 @@ Maintained by [oneisolve.com](https://oneisolve.com). If citing in academic pape
   publisher = {oneisolve},
   howpublished = {\url{https://oneisolve.com}}
 }
+```
