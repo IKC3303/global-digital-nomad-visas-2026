@@ -1,0 +1,1317 @@
+{
+  "metadata": {
+    "provider": "oneisolve.com - Global Nomad Visa Intelligence",
+    "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
+    "updatedAt": "2026-09-22T22:52:44.628Z",
+    "totalCount": 35,
+    "documentation": "https://oneisolve.com/developers",
+    "canonicalUrl": "https://oneisolve.com/dataset.json"
+  },
+  "data": [
+    {
+      "id": "portugal-d8",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "visaName": "D8 Digital Nomad Visa",
+      "minIncomeUSD": 3500,
+      "statutoryIncome": {
+        "amount": 3280,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€3,280 EUR/mo",
+        "period": "month",
+        "legalFormula": "4x Portuguese Minimum Wage"
+      },
+      "stayDuration": "1 to 2 Years (Renewable)",
+      "processingTime": "3-4 months",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "NHR (Non-Habitual Resident) regime used to offer 20% flat tax on local income and exemptions on foreign income. Note: NHR is undergoing legislative changes in 2024; consult a local advisor.",
+      "taxWarningNote": null,
+      "fees": {
+        "applicationFee": "€90 EUR (Consular national visa application fee)",
+        "issuanceFee": "€170 EUR (AIMA residency permit processing & card)",
+        "residencyCardFee": "Included in AIMA fee",
+        "totalEstimated": "~€260 EUR (~$285 USD) + NIF & Portuguese bank setup"
+      },
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote income equivalent to 4x the Portuguese minimum wage (~EUR 3,280/month).",
+        "NIF (Tax Identification Number) and a Portuguese bank account.",
+        "Proof of accommodation in Portugal for at least 1 year.",
+        "Clean criminal record."
+      ],
+      "governingBody": "Ministry of Foreign Affairs & AIMA (Portugal)",
+      "officialPortal": "https://vistos.mne.gov.pt/en/",
+      "canonicalUrl": "https://oneisolve.com/visa/portugal-d8"
+    },
+    {
+      "id": "spain-dnv",
+      "country": "Spain",
+      "countryCode": "ES",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 2646,
+      "statutoryIncome": {
+        "amount": 2646,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€2,646 EUR/mo",
+        "period": "month",
+        "legalFormula": "200% Spanish Minimum Wage (SMI)"
+      },
+      "stayDuration": "1 Year via embassy or 3 Years via UGE (Renewable up to 5 Years)",
+      "processingTime": "20-30 business days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Eligible for Beckham Law regime offering a reduced flat tax rate of 24% on Spanish income for up to 6 years.",
+      "taxWarningNote": null,
+      "fees": {
+        "applicationFee": "€73.26 EUR (Consular visa fee) or €73.26 EUR (UGE in-country fee)",
+        "issuanceFee": "€16.08 EUR (TIE Fingerprint fee - Model 790 Code 012)",
+        "residencyCardFee": "Included in TIE fee",
+        "totalEstimated": "~€90 EUR (~$100 USD) + sworn translation/apostille"
+      },
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment or freelance work with non-Spanish companies for at least 3 months.",
+        "Minimum monthly income of at least 200% of the Spanish minimum wage (~EUR 2,646/month).",
+        "Clean criminal record check from countries of residence over the last 5 years.",
+        "Comprehensive private health insurance valid in Spain with no co-payments."
+      ],
+      "governingBody": "Ministry of Foreign Affairs, European Union and Cooperation (Spain) & UGE",
+      "officialPortal": "https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Digital-Nomad-Visa.aspx",
+      "canonicalUrl": "https://oneisolve.com/visa/spain-dnv"
+    },
+    {
+      "id": "japan-dnv",
+      "country": "Japan",
+      "countryCode": "JP",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 5500,
+      "statutoryIncome": {
+        "amount": 10000000,
+        "currency": "JPY",
+        "currencySymbol": "¥",
+        "formatted": "¥10,000,000 JPY/yr",
+        "period": "year",
+        "legalFormula": "Annual Gross Income Threshold"
+      },
+      "stayDuration": "6 Months (Non-renewable)",
+      "processingTime": "2-4 weeks",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Exempt from local income tax during the 6-month stay for residents of eligible tax-treaty countries.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "asia",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Annual income of at least 10,000,000 JPY (or foreign currency equivalent)",
+        "Citizenship of a visa-exempt country with a tax treaty with Japan",
+        "Private health insurance covering injury and medical care for the full stay"
+      ],
+      "governingBody": "Immigration Services Agency of Japan (ISA) & Ministry of Foreign Affairs",
+      "officialPortal": "https://www.mofa.go.jp/ca/fna/page22e_001037.html",
+      "canonicalUrl": "https://oneisolve.com/visa/japan-dnv"
+    },
+    {
+      "id": "estonia-dnv",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 4500,
+      "statutoryIncome": {
+        "amount": 4500,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€4,500 EUR/mo",
+        "period": "month",
+        "legalFormula": "Aliens Act Statutory Monthly Floor"
+      },
+      "stayDuration": "1 Year (Renewable up to 1 Year)",
+      "processingTime": "15-30 calendar days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Tax residency is triggered if staying more than 183 days in a 12-month period, subject to standard flat personal income tax rate or tax treaty protections.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of location-independent work using telecommunications technology",
+        "Active employment with a foreign company, foreign business ownership, or foreign freelance clients",
+        "Gross monthly income of at least EUR 4,500 for the preceding 6 months",
+        "Valid health insurance coverage for the full duration of stay"
+      ],
+      "governingBody": "Police and Border Guard Board (PPA) & Enterprise Estonia (e-Residency)",
+      "officialPortal": "https://www.e-resident.gov.ee/nomadvisa/",
+      "canonicalUrl": "https://oneisolve.com/visa/estonia-dnv"
+    },
+    {
+      "id": "croatia-dnv",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "visaName": "Temporary Stay of Digital Nomads",
+      "minIncomeUSD": 2539,
+      "statutoryIncome": {
+        "amount": 2539,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€2,539 EUR/mo",
+        "period": "month",
+        "legalFormula": "2.5x Croatian Average Net Monthly Salary"
+      },
+      "stayDuration": "Up to 18 months",
+      "processingTime": "20-30 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Full exemption from Croatian personal income tax on remote foreign income",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote work for a company or own business outside Croatia",
+        "Minimum monthly income of EUR 2,539 (or equivalent in savings)",
+        "Valid passport with validity extending 3 months beyond the intended stay",
+        "Comprehensive health insurance covering the territory of Croatia"
+      ],
+      "governingBody": "Ministry of the Interior (MUP Croatia)",
+      "officialPortal": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833",
+      "canonicalUrl": "https://oneisolve.com/visa/croatia-dnv"
+    },
+    {
+      "id": "malaysia-de-rantau",
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "visaName": "DE Rantau Digital Nomad Pass",
+      "minIncomeUSD": 2000,
+      "statutoryIncome": {
+        "amount": 2000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$2,000 USD/mo",
+        "period": "month",
+        "legalFormula": "MDEC Statutory Threshold ($24k/yr)"
+      },
+      "stayDuration": "3 to 12 months (Renewable up to an additional 12 months)",
+      "processingTime": "4-6 weeks",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Foreign-sourced income is generally exempt from local personal income tax under Malaysia's territorial tax system.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "asia",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Minimum annual remote income of USD 24,000 (USD 2,000 per month)",
+        "Proof of remote employment contract, active freelance client projects, or business ownership",
+        "Valid passport with at least 14 months of remaining validity",
+        "Health insurance coverage for the duration of stay in Malaysia"
+      ],
+      "governingBody": "Malaysia Digital Economy Corporation (MDEC) & Immigration Department of Malaysia",
+      "officialPortal": "https://mdec.my/derantau",
+      "canonicalUrl": "https://oneisolve.com/visa/malaysia-de-rantau"
+    },
+    {
+      "id": "taiwan-goldcard",
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "visaName": "Employment Gold Card",
+      "minIncomeUSD": 5000,
+      "statutoryIncome": {
+        "amount": 160000,
+        "currency": "TWD",
+        "currencySymbol": "NT$",
+        "formatted": "NT$160,000 TWD/mo",
+        "period": "month",
+        "legalFormula": "Foreign Professional Act (Prior 3 Yrs)"
+      },
+      "stayDuration": "1-3 Years (Renewable)",
+      "processingTime": "30-60 days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "50% tax exemption on annual salary income exceeding TWD 3 million for up to 5 years",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "asia",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Minimum monthly income of TWD 160,000 in one of the past three years",
+        "Specialized expertise in one of 10 key professional fields (e.g., Tech, Economy, Finance, Digital)",
+        "Valid passport and background check"
+      ],
+      "governingBody": "National Development Council & Taiwan Employment Gold Card Office",
+      "officialPortal": "https://goldcard.nat.gov.tw/en/",
+      "canonicalUrl": "https://oneisolve.com/visa/taiwan-goldcard"
+    },
+    {
+      "id": "thailand-dtv",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "visaName": "Destination Thailand Visa (DTV)",
+      "minIncomeUSD": 0,
+      "statutoryIncome": {
+        "amount": 500000,
+        "currency": "THB",
+        "currencySymbol": "฿",
+        "formatted": "500,000 THB Funds",
+        "period": "savings",
+        "legalFormula": "Destination Thailand Visa Solvency Deposit"
+      },
+      "stayDuration": "5 Years (up to 180 days per entry)",
+      "processingTime": "5-15 business days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Foreign income is generally subject to personal income tax only if remitted into Thailand while residing as a tax resident.",
+      "taxWarningNote": null,
+      "fees": {
+        "applicationFee": "10,000 THB (~$290 USD official e-Visa fee)",
+        "issuanceFee": "Included in application fee",
+        "extensionFee": "1,900 THB (~$55 USD for 180-day in-country extension)",
+        "totalEstimated": "~$290 USD for 5-year multi-entry"
+      },
+      "isTaxFree": false,
+      "region": "asia",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "At least 20 years of age",
+        "Proof of financial funds of at least 500,000 THB",
+        "Proof of remote employment, freelance portfolio, or foreign business ownership"
+      ],
+      "governingBody": "Ministry of Foreign Affairs (Thailand) & Tourism Authority of Thailand (TAT)",
+      "officialPortal": "https://www.thaievisa.go.th/",
+      "canonicalUrl": "https://oneisolve.com/visa/thailand-dtv"
+    },
+    {
+      "id": "greece-dnv",
+      "country": "Greece",
+      "countryCode": "GR",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 3500,
+      "statutoryIncome": {
+        "amount": 3500,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€3,500 EUR/mo",
+        "period": "month",
+        "legalFormula": "Law 4825/2021 Statutory Income Floor"
+      },
+      "stayDuration": "1 Year (Renewable up to 3 Years)",
+      "processingTime": "2-4 weeks",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "50% personal income tax reduction for up to 7 years when transferring tax residency to Greece.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of foreign monthly income of at least EUR 3,500 net.",
+        "Proof of remote employment or business activities for clients/employers outside Greece.",
+        "Clean criminal record and private health insurance coverage in Greece."
+      ],
+      "governingBody": "Ministry of Migration and Asylum & Ministry of Foreign Affairs (Greece)",
+      "officialPortal": "https://migration.gov.gr/en/",
+      "canonicalUrl": "https://oneisolve.com/visa/greece-dnv"
+    },
+    {
+      "id": "cyprus-dnv",
+      "country": "Cyprus",
+      "countryCode": "CY",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 3500,
+      "statutoryIncome": {
+        "amount": 3500,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€3,500 EUR/mo",
+        "period": "month",
+        "legalFormula": "Net Monthly Income Floor (+20% spouse)"
+      },
+      "stayDuration": "1 Year (Renewable up to 3 Years)",
+      "processingTime": "5-7 weeks",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Tax residents under the 60-day rule benefit from non-domicile tax status, exempting foreign dividends and interest from tax.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of net monthly income of at least EUR 3,500",
+        "Remote work contract or foreign client proof",
+        "Valid comprehensive health insurance",
+        "Clean criminal record from country of origin"
+      ],
+      "governingBody": "Civil Registry and Migration Department (Ministry of Interior, Cyprus)",
+      "officialPortal": "http://www.moi.gov.cy/crmd",
+      "canonicalUrl": "https://oneisolve.com/visa/cyprus-dnv"
+    },
+    {
+      "id": "iceland-remote",
+      "country": "Iceland",
+      "countryCode": "IS",
+      "visaName": "Long-Term Visa for Remote Workers",
+      "minIncomeUSD": 7300,
+      "statutoryIncome": {
+        "amount": 1000000,
+        "currency": "ISK",
+        "currencySymbol": "kr ",
+        "formatted": "1,000,000 ISK/mo",
+        "period": "month",
+        "legalFormula": "Directorate of Immigration Requirement"
+      },
+      "stayDuration": "180 days",
+      "processingTime": "3-4 weeks",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Exempt from Icelandic income tax for stays up to 180 days",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment, freelancing, or business ownership outside Iceland",
+        "Minimum monthly income of 1,000,000 ISK for an individual (1,300,000 ISK for couples)",
+        "Comprehensive health insurance covering the duration of stay in Iceland",
+        "Valid passport and clean criminal record"
+      ],
+      "governingBody": "Directorate of Immigration (Útlendingastofnun, Iceland)",
+      "officialPortal": "https://island.is/en/o/directorate-of-immigration",
+      "canonicalUrl": "https://oneisolve.com/visa/iceland-remote"
+    },
+    {
+      "id": "norway-svalbard",
+      "country": "Norway",
+      "countryCode": "NO",
+      "visaName": "Svalbard Self-Sufficiency & Work Exemption",
+      "minIncomeUSD": 0,
+      "statutoryIncome": {
+        "amount": 0,
+        "currency": "NOK",
+        "currencySymbol": "kr ",
+        "formatted": "Proof of Self-Sufficiency",
+        "period": "savings",
+        "legalFormula": "Svalbard Treaty Self-Support Regulation"
+      },
+      "stayDuration": "Unlimited (subject to self-sufficiency)",
+      "processingTime": "Instant (No visa required prior to arrival)",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Reduced tax rate under Svalbard tax law (approx 16.2% flat income tax) and no VAT",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Sufficient financial self-sufficiency to cover living costs on Svalbard",
+        "Arranged housing accommodation prior to arrival",
+        "Valid passport and transit visa if passing through mainland Norway"
+      ],
+      "governingBody": "Governor of Svalbard (Sysselmesteren på Svalbard)",
+      "officialPortal": "https://www.sysselmesteren.no/en/entry-and-residence/",
+      "canonicalUrl": "https://oneisolve.com/visa/norway-svalbard"
+    },
+    {
+      "id": "czech-zivno",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "visaName": "Long-Term Visa for Business Purposes (Živno)",
+      "minIncomeUSD": 1300,
+      "statutoryIncome": {
+        "amount": 180000,
+        "currency": "CZK",
+        "currencySymbol": "CZK ",
+        "formatted": "180,000 CZK Funds",
+        "period": "savings",
+        "legalFormula": "Trade License Bank Balance Solvency"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "60-90 days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Option to participate in the flat-rate tax scheme (paušální daň), simplifying income tax, social security, and health insurance into a single monthly payment.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Active Czech Trade License (Živnostenský list)",
+        "Proof of available funds (minimum ~156,500 CZK in a bank account)",
+        "Proof of accommodation in the Czech Republic for the duration of stay",
+        "Clean criminal record from home country and recent countries of residence"
+      ],
+      "governingBody": "Ministry of the Interior of the Czech Republic (MVCR)",
+      "officialPortal": "https://www.mvcr.cz/mvcren/article/immigration.aspx",
+      "canonicalUrl": "https://oneisolve.com/visa/czech-zivno"
+    },
+    {
+      "id": "italy-dnv",
+      "country": "Italy",
+      "countryCode": "IT",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 2333,
+      "statutoryIncome": {
+        "amount": 28000,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€28,000 EUR/yr (~€2,333/mo)",
+        "period": "year",
+        "legalFormula": "3x National Healthcare Exemption Floor"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "30-90 days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Possibility to apply for the Impatriati regime offering income tax reductions for qualifying foreign workers.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Minimum annual income of EUR 28,000 (approx. EUR 2,333/month) from remote work",
+        "Proof of highly qualified remote employment or freelance work for at least 6 months",
+        "Comprehensive health insurance covering medical treatment in Italy",
+        "Proof of suitable accommodation in Italy and clean criminal record"
+      ],
+      "governingBody": "Ministry of Foreign Affairs and International Cooperation (MAECI) & Ministry of Interior",
+      "officialPortal": "https://vistoperitalia.esteri.it/",
+      "canonicalUrl": "https://oneisolve.com/visa/italy-dnv"
+    },
+    {
+      "id": "romania-dnv",
+      "country": "Romania",
+      "countryCode": "RO",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 3700,
+      "statutoryIncome": {
+        "amount": 3700,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€3,700 EUR/mo",
+        "period": "month",
+        "legalFormula": "3x Average Gross Monthly Salary"
+      },
+      "stayDuration": "1 Year (Renewable for 1 additional year)",
+      "processingTime": "30-45 days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Foreign remote income is exempt from Romanian income tax and social security contributions.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment or business ownership registered outside Romania for at least 3 months",
+        "Proof of minimum income of 3,700 EUR per month (3x Romanian average gross salary) for the last 6 months",
+        "Valid health insurance covering Romania for the visa duration",
+        "Clean criminal record certificate"
+      ],
+      "governingBody": "General Inspectorate for Immigration (IGI Romania) & Ministry of Foreign Affairs",
+      "officialPortal": "https://eviza.mae.ro/",
+      "canonicalUrl": "https://oneisolve.com/visa/romania-dnv"
+    },
+    {
+      "id": "bermuda-work",
+      "country": "Bermuda",
+      "countryCode": "BM",
+      "visaName": "Work From Bermuda Certificate",
+      "minIncomeUSD": 0,
+      "statutoryIncome": {
+        "amount": 0,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "Proof of Employment",
+        "period": "month",
+        "legalFormula": "Work from Bermuda Certificate Policy"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "10-15 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "No local personal income tax or capital gains tax on foreign income.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Demonstrate a continuous source of income or substantial financial means",
+        "Valid health insurance coverage in Bermuda",
+        "Proof of employment with a foreign entity or ownership of a foreign company",
+        "Clean criminal background check and valid passport"
+      ],
+      "governingBody": "Department of Immigration & Bermuda Tourism Authority (BTA)",
+      "officialPortal": "https://www.gov.bm/",
+      "canonicalUrl": "https://oneisolve.com/visa/bermuda-work"
+    },
+    {
+      "id": "bahamas-beats",
+      "country": "Bahamas",
+      "countryCode": "BS",
+      "visaName": "Extended Access Travel Stay (BEATS)",
+      "minIncomeUSD": 0,
+      "statutoryIncome": {
+        "amount": 0,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "Proof of Remote Income",
+        "period": "month",
+        "legalFormula": "BEATS Program Self-Sufficiency"
+      },
+      "stayDuration": "1 Year (Renewable up to 3 Years)",
+      "processingTime": "5 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "No personal income tax, tax on capital gains, or foreign income tax in the Bahamas.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment, self-employment, or student enrolment outside The Bahamas",
+        "Valid passport with sufficient validity",
+        "Proof of medical insurance coverage including health care in The Bahamas"
+      ],
+      "governingBody": "Bahamas Ministry of Tourism, Investments & Aviation",
+      "officialPortal": "https://www.immigration.gov.bs/",
+      "canonicalUrl": "https://oneisolve.com/visa/bahamas-beats"
+    },
+    {
+      "id": "costarica-dnv",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "visaName": "Digital Nomad Visa (Estancia para Trabajadores Remotos)",
+      "minIncomeUSD": 3000,
+      "statutoryIncome": {
+        "amount": 3000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$3,000 USD/mo",
+        "period": "month",
+        "legalFormula": "Ley 10008 ($4,000 with dependents)"
+      },
+      "stayDuration": "1 Year (Renewable for 1 additional year)",
+      "processingTime": "15-30 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Exempt from Costa Rican income tax on foreign-earned income and import duty exemption on work equipment.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of stable foreign income of at least $3,000 USD per month for individuals or $4,000 USD for families",
+        "Valid health insurance policy covering the applicant and dependents for the full duration of stay",
+        "Proof of remote employment, freelancing, or business ownership outside Costa Rica"
+      ],
+      "governingBody": "Dirección General de Migración y Extranjería (Costa Rica)",
+      "officialPortal": "https://www.migracion.go.cr/",
+      "canonicalUrl": "https://oneisolve.com/visa/costarica-dnv"
+    },
+    {
+      "id": "brazil-dnv",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "visaName": "Digital Nomad Visa (VITEM XIV)",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 1500,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$1,500 USD/mo (or $18k savings)",
+        "period": "month",
+        "legalFormula": "National Immigration Council Resolution 45"
+      },
+      "stayDuration": "1 Year (Renewable for up to 1 year)",
+      "processingTime": "2-4 weeks",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Tax residency applies after 183 days of residence within a 12-month period.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment or freelance work with foreign entities",
+        "Minimum monthly income of $1,500 USD or bank account balance of $18,000 USD",
+        "Valid health insurance valid in Brazil",
+        "Clean criminal background check"
+      ],
+      "governingBody": "National Immigration Council (CNIg) & Ministry of Justice and Public Security (Brazil)",
+      "officialPortal": "https://www.gov.br/mre/en",
+      "canonicalUrl": "https://oneisolve.com/visa/brazil-dnv"
+    },
+    {
+      "id": "argentina-dnv",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "visaName": "Digital Nomad Visa",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 1500,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$1,500 USD/mo",
+        "period": "month",
+        "legalFormula": "Disposición 758/2022"
+      },
+      "stayDuration": "180 Days (Renewable once for up to 180 Days)",
+      "processingTime": "10-20 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "No local income tax on foreign-sourced earnings during the 180-day temporary stay.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote work contract, freelance services, or company ownership outside Argentina",
+        "Valid passport and detailed professional CV or portfolio",
+        "Clean criminal background check from country of origin or residence"
+      ],
+      "governingBody": "Dirección Nacional de Migraciones (DNM Argentina) & Visit Argentina",
+      "officialPortal": "https://www.argentina.gob.ar/migraciones",
+      "canonicalUrl": "https://oneisolve.com/visa/argentina-dnv"
+    },
+    {
+      "id": "mauritius-premium",
+      "country": "Mauritius",
+      "countryCode": "MU",
+      "visaName": "Premium Visa",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 1500,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$1,500 USD/mo",
+        "period": "month",
+        "legalFormula": "EDB Mauritius Premium Visa Guidelines"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "14-21 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Foreign income is tax-exempt as long as it is not remitted into a Mauritian bank account.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "africa",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of monthly income of at least USD 1,500",
+        "Main source of income and business activity outside Mauritius",
+        "Valid travel and health insurance covering the duration of stay",
+        "Valid passport and return/onward flight ticket"
+      ],
+      "governingBody": "Economic Development Board Mauritius (EDB) & Passport and Immigration Office",
+      "officialPortal": "https://edbmauritius.org/work-live",
+      "canonicalUrl": "https://oneisolve.com/visa/mauritius-premium"
+    },
+    {
+      "id": "seychelles-workation",
+      "country": "Seychelles",
+      "countryCode": "SC",
+      "visaName": "Workation Retreat",
+      "minIncomeUSD": 0,
+      "statutoryIncome": {
+        "amount": 0,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "Proof of Remote Earnings",
+        "period": "month",
+        "legalFormula": "Seychelles Workcation Retreat Protocol"
+      },
+      "stayDuration": "Up to 1 Year",
+      "processingTime": "9-12 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Exempt from local income tax on income generated outside Seychelles",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "africa",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Valid passport for the full duration of stay",
+        "Proof of remote employment, freelance contracts, or company ownership outside Seychelles",
+        "Proof of sufficient financial means and medical insurance"
+      ],
+      "governingBody": "Department of Immigration and Civil Status (Seychelles)",
+      "officialPortal": "https://seychelles.govtas.com/",
+      "canonicalUrl": "https://oneisolve.com/visa/seychelles-workation"
+    },
+    {
+      "id": "southafrica-dnv",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "visaName": "Remote Work Visitor Visa",
+      "minIncomeUSD": 4500,
+      "statutoryIncome": {
+        "amount": 650000,
+        "currency": "ZAR",
+        "currencySymbol": "R ",
+        "formatted": "R 650,000 ZAR/yr (~R 54k/mo)",
+        "period": "year",
+        "legalFormula": "Immigration Act Amendment 2024 Threshold"
+      },
+      "stayDuration": "Up to 1 Year (Renewable up to 3 Years)",
+      "processingTime": "30-60 business days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Foreign income exempt from local income tax if spending less than 183 days in South Africa in a 12-month period.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "africa",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Minimum annual income requirement of 1,000,000 ZAR (~83,333 ZAR per month)",
+        "Proof of remote employment, freelancing, or business ownership outside South Africa",
+        "Comprehensive health insurance for the entire duration of stay",
+        "Valid passport and clean criminal background check"
+      ],
+      "governingBody": "Department of Home Affairs (DHA, South Africa)",
+      "officialPortal": "https://www.gov.za/services/temporary-residence/visas",
+      "canonicalUrl": "https://oneisolve.com/visa/southafrica-dnv"
+    },
+    {
+      "id": "dubai-vwp",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "visaName": "Virtual Working Program",
+      "minIncomeUSD": 3500,
+      "statutoryIncome": {
+        "amount": 13000,
+        "currency": "AED",
+        "currencySymbol": "AED ",
+        "formatted": "AED 13,000/mo (~$3,500 USD)",
+        "period": "month",
+        "legalFormula": "GDRFA Virtual Working Program"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "15-30 days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "0% personal income tax rate.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "middle_east",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Valid passport with at least 6 months validity",
+        "Proof of employment or company ownership (1+ year contract)",
+        "Health insurance with UAE coverage valid for the duration of stay",
+        "Pay slips for the last month and bank statements for the preceding 3 months"
+      ],
+      "governingBody": "Dubai Department of Economy and Tourism (DET) & GDRFA Dubai",
+      "officialPortal": "https://www.visitdubai.com/en/invest-in-dubai/live-and-work/work-remotely",
+      "canonicalUrl": "https://oneisolve.com/visa/dubai-vwp"
+    },
+    {
+      "id": "south-korea-workation",
+      "country": "South Korea",
+      "countryCode": "KR",
+      "visaName": "Workation Visa (F-1-D)",
+      "minIncomeUSD": 5500,
+      "statutoryIncome": {
+        "amount": 85000000,
+        "currency": "KRW",
+        "currencySymbol": "₩",
+        "formatted": "₩85,000,000 KRW/yr (~₩7.08M/mo)",
+        "period": "year",
+        "legalFormula": "2x Prior Year Gross National Income (GNI)"
+      },
+      "stayDuration": "1 Year (Renewable up to 2 Years)",
+      "processingTime": "10-20 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Foreign income is exempt from domestic Korean taxation; strictly prohibits employment or commercial activity with Korean entities.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "asia",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of annual income exceeding 2x Korea GNI per capita (~88,000,000 KRW / ~$66,000 USD / ~$5,500/mo)",
+        "At least 1 year of employment in the same industry with a foreign company",
+        "Private medical insurance covering over 100,000,000 KRW (~$75,000 USD) including medical evacuation",
+        "Apostilled clean criminal background check from home country"
+      ],
+      "governingBody": "Ministry of Justice (Korea Immigration Service)",
+      "officialPortal": "https://www.visa.go.kr/",
+      "canonicalUrl": "https://oneisolve.com/visa/south-korea-workation"
+    },
+    {
+      "id": "malta-nomad",
+      "country": "Malta",
+      "countryCode": "MT",
+      "visaName": "Nomad Residence Permit",
+      "minIncomeUSD": 2950,
+      "statutoryIncome": {
+        "amount": 2950,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€2,950 EUR/mo",
+        "period": "month",
+        "legalFormula": "Residency Malta Statutory Threshold"
+      },
+      "stayDuration": "1 Year (Renewable up to 4 Years)",
+      "processingTime": "30-45 business days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Nomad-specific flat tax rate of 10% on qualifying remote income, exempting foreign non-remitted funds.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Gross monthly income of at least EUR 2,700 (~$2,950 USD)",
+        "Valid employment or freelance contract with entities registered outside Malta",
+        "Proof of valid lease accommodation in Malta",
+        "Comprehensive medical insurance policy covering Schengen area"
+      ],
+      "governingBody": "Residency Malta Agency (RMA)",
+      "officialPortal": "https://residencymalta.gov.mt/nomad-residence-permit/",
+      "canonicalUrl": "https://oneisolve.com/visa/malta-nomad"
+    },
+    {
+      "id": "indonesia-e33g",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "visaName": "Remote Worker Visa (E33G / Bali DNV)",
+      "minIncomeUSD": 5000,
+      "statutoryIncome": {
+        "amount": 60000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$60,000 USD/yr (~$5,000/mo)",
+        "period": "year",
+        "legalFormula": "Ministerial Reg 22/2023 E33G Visa"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "5-10 business days via e-Visa portal",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "0% tax on foreign-sourced income earned from employers or clients outside Indonesia.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "asia",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Annual remote salary/earnings of at least $60,000 USD (~$5,000/month)",
+        "Proof of continuous employment contract or business ownership outside Indonesia",
+        "Bank statement showing minimum balance of $2,000 USD",
+        "Valid passport with at least 6 months validity"
+      ],
+      "governingBody": "Directorate General of Immigration (Kemenkumham Indonesia)",
+      "officialPortal": "https://evisa.imigrasi.go.id/",
+      "canonicalUrl": "https://oneisolve.com/visa/indonesia-e33g"
+    },
+    {
+      "id": "colombia-v-nomadas",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "visaName": "Visa V Nómadas Digitales",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 175,
+        "currency": "COP",
+        "currencySymbol": "COP ",
+        "formatted": "175 SMLMV (~6.5M COP / ~$1,500 USD)",
+        "period": "month",
+        "legalFormula": "175x Daily Minimum Legal Wage (SMLMV)"
+      },
+      "stayDuration": "Up to 2 Years (180 days per calendar year without tax residency trigger)",
+      "processingTime": "15-30 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Exempt from local income taxation if physical stay remains under 183 days in a 365-day rolling window.",
+      "taxWarningNote": null,
+      "fees": {
+        "applicationFee": "$52 USD (Estudio de visa non-refundable)",
+        "issuanceFee": "$177 USD (Expedición de visa upon approval)",
+        "residencyCardFee": "267,000 COP (~$68 USD, Cédula de Extranjería)",
+        "totalEstimated": "~$297 USD (+ translation/apostille costs)"
+      },
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Minimum monthly income of 3x Colombian minimum wage (~$1,500 USD/month)",
+        "Letter from foreign employer or freelance contracts in Spanish/English",
+        "Health insurance policy covering international medical expenses and repatriation in Colombia",
+        "Bank statements showing qualifying deposits for the last 3 months"
+      ],
+      "governingBody": "Ministry of Foreign Affairs (Cancillería de Colombia)",
+      "officialPortal": "https://www.cancilleria.gov.co/tramites_servicios/visa",
+      "canonicalUrl": "https://oneisolve.com/visa/colombia-v-nomadas"
+    },
+    {
+      "id": "hungary-whitecard",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "visaName": "White Card (Individual Digital Nomad Residence)",
+      "minIncomeUSD": 3250,
+      "statutoryIncome": {
+        "amount": 3000,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€3,000 EUR/mo",
+        "period": "month",
+        "legalFormula": "Act on Third-Country Nationals (White Card)"
+      },
+      "stayDuration": "1 Year (Renewable for 1 additional year)",
+      "processingTime": "21-30 calendar days",
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Exempt from Hungarian personal income tax for the first 6 months of residency.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Monthly verified income of at least EUR 3,000 for the preceding 6 months",
+        "Employment with a company outside Hungary or shareholding in a foreign enterprise",
+        "Valid lease agreement in Hungary and comprehensive health insurance",
+        "Clean criminal record"
+      ],
+      "governingBody": "National Directorate-General for Aliens Policing (OIF Hungary)",
+      "officialPortal": "http://www.bmbah.hu/index.php?lang=en",
+      "canonicalUrl": "https://oneisolve.com/visa/hungary-whitecard"
+    },
+    {
+      "id": "mexico-temporary-resident",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "visaName": "Temporary Resident Visa (Remote Income)",
+      "minIncomeUSD": 3200,
+      "statutoryIncome": {
+        "amount": 73000,
+        "currency": "MXN",
+        "currencySymbol": "MXN ",
+        "formatted": "73,000 MXN/mo (~$3,600 USD)",
+        "period": "month",
+        "legalFormula": "UMAs Minimum Monthly Net Formula"
+      },
+      "stayDuration": "1 Year (Renewable up to 4 Years, leading to Permanent Residency)",
+      "processingTime": "10-20 business days via Mexican Consulates",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Foreign remote income is exempt from Mexican tax as long as income is not paid by a Mexican legal entity.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Monthly income of approx. $3,200-$3,600 USD for the last 6 months OR bank balance of $54,000+ USD for 12 months",
+        "Proof of remote employment, freelancing, or investments outside Mexico",
+        "Valid passport and consular appointment in home country",
+        "Exchange visa sticker for Canje resident card at INM within 30 days of arrival"
+      ],
+      "governingBody": "Instituto Nacional de Migración (INM) & Secretaría de Relaciones Exteriores (SRE)",
+      "officialPortal": "https://www.inm.gob.mx/",
+      "canonicalUrl": "https://oneisolve.com/visa/mexico-temporary-resident"
+    },
+    {
+      "id": "georgia-remotely",
+      "country": "Georgia",
+      "countryCode": "GE",
+      "visaName": "Remotely from Georgia & 365-Day Visa-Free",
+      "minIncomeUSD": 2000,
+      "statutoryIncome": {
+        "amount": 2000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$2,000 USD/mo (or $24,000 savings)",
+        "period": "month",
+        "legalFormula": "Remotely from Georgia Directive"
+      },
+      "stayDuration": "360 Days (Visa-Free for 95+ nationalities, easily reset via border run)",
+      "processingTime": "Instant arrival / 10 business days for Individual Entrepreneur tax status",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Eligible for Small Business Status offering a flat 1% income tax rate on annual revenue up to 500,000 GEL (~$185,000 USD).",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Minimum monthly income of $2,000 USD or equivalent in savings",
+        "Citizen of one of the 95+ visa-free countries",
+        "Valid health insurance policy for full stay duration",
+        "Proof of remote contracts or freelance portfolio"
+      ],
+      "governingBody": "Ministry of Economy and Sustainable Development & Public Service Hall (Georgia)",
+      "officialPortal": "https://migration.commission.ge/",
+      "canonicalUrl": "https://oneisolve.com/visa/georgia-remotely"
+    },
+    {
+      "id": "barbados-welcome-stamp",
+      "country": "Barbados",
+      "countryCode": "BB",
+      "visaName": "Welcome Stamp",
+      "minIncomeUSD": 4166,
+      "statutoryIncome": {
+        "amount": 50000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$50,000 USD/yr (~$4,166/mo)",
+        "period": "year",
+        "legalFormula": "Barbados Welcome Stamp Framework"
+      },
+      "stayDuration": "12 Months (Renewable)",
+      "processingTime": "5-7 business days via online portal",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "100% exemption from Barbados local personal income tax on foreign-earned income.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Annual remote income expectation of at least $50,000 USD (~$4,166/month)",
+        "Employment with a company outside Barbados or independent remote business",
+        "Valid passport with at least 6 months validity",
+        "Proof of international health insurance"
+      ],
+      "governingBody": "Barbados Immigration Department & Ministry of Tourism and International Transport",
+      "officialPortal": "https://www.visitbarbados.org/barbados-welcome-stamp",
+      "canonicalUrl": "https://oneisolve.com/visa/barbados-welcome-stamp"
+    },
+    {
+      "id": "panama-remote-worker",
+      "country": "Panama",
+      "countryCode": "PA",
+      "visaName": "Short Stay Visa for Remote Workers",
+      "minIncomeUSD": 3000,
+      "statutoryIncome": {
+        "amount": 3000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$3,000 USD/mo (or $4,000 family)",
+        "period": "month",
+        "legalFormula": "Executive Decree 198 of 2021"
+      },
+      "stayDuration": "9 Months (Renewable for an additional 9 months; 18 months total)",
+      "processingTime": "20-30 business days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Strict territorial tax system: 0% tax on foreign-sourced earnings earned outside Panama.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Annual foreign-sourced income of at least $36,000 USD ($3,000/month) + $1,000/mo per dependent",
+        "Proof of remote employment, services, or business operations outside Panama",
+        "Clean criminal background check from home country (apostilled)",
+        "Comprehensive medical insurance valid in Panama"
+      ],
+      "governingBody": "Servicio Nacional de Migración (Panama)",
+      "officialPortal": "https://www.migracion.gob.pa/",
+      "canonicalUrl": "https://oneisolve.com/visa/panama-remote-worker"
+    },
+    {
+      "id": "montenegro-dnv",
+      "country": "Montenegro",
+      "countryCode": "ME",
+      "visaName": "Digital Nomad Temporary Residence Permit",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 1400,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€1,400 EUR/mo",
+        "period": "month",
+        "legalFormula": "Foreigners Act Amendment Threshold"
+      },
+      "stayDuration": "2 Years (Renewable for an additional 2 years)",
+      "processingTime": "20-30 calendar days",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Full exemption from Montenegrin personal income tax for qualifying digital nomads.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote monthly income of at least 3x the Montenegrin minimum wage (~€1,400/month)",
+        "Employment with a non-Montenegrin company or foreign registered business ownership",
+        "Registered residential lease in Montenegro",
+        "Clean criminal record check and private health insurance"
+      ],
+      "governingBody": "Ministry of Internal Affairs (MUP Montenegro)",
+      "officialPortal": "https://www.gov.me/mup",
+      "canonicalUrl": "https://oneisolve.com/visa/montenegro-dnv"
+    },
+    {
+      "id": "turkey-digital-nomad",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "visaName": "Digital Nomad Identification Certificate",
+      "minIncomeUSD": 3000,
+      "statutoryIncome": {
+        "amount": 3000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$3,000 USD/mo (or $36k/yr)",
+        "period": "month",
+        "legalFormula": "GoTürkiye Nomad Identification Certificate"
+      },
+      "stayDuration": "1 Year (Renewable as Short-Term Residence Permit)",
+      "processingTime": "10-15 business days via GoTürkiye portal",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "Foreign remote income remains untaxed in Turkey if staying under 183 days per calendar year.",
+      "taxWarningNote": null,
+      "fees": null,
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Ages 21 to 55 from qualifying countries (EU, UK, US, Canada, etc.)",
+        "Proof of monthly income of $3,000 USD or $36,000 USD annually",
+        "University degree or verified higher educational diploma",
+        "Valid passport with at least 6 months validity"
+      ],
+      "governingBody": "Ministry of Culture and Tourism (GoTürkiye) & Directorate General of Migration Management (GÖÇ)",
+      "officialPortal": "https://digitalnomads.goturkiye.com/",
+      "canonicalUrl": "https://oneisolve.com/visa/turkey-digital-nomad"
+    }
+  ]
+}
