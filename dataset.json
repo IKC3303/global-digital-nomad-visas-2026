@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-02T22:45:01.513Z",
+    "updatedAt": "2026-10-03T05:29:48.429Z",
     "totalCount": 35,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -221,7 +221,12 @@
       "taxArchetype": "pure_zero",
       "taxBenefit": "Foreign-sourced income is generally exempt from local personal income tax under Malaysia's territorial tax system.",
       "taxWarningNote": null,
-      "fees": null,
+      "fees": {
+        "applicationFee": "RM 1,060 (~$240 USD) for main applicant",
+        "issuanceFee": "RM 530 (~$120 USD) per dependent",
+        "multipleEntryVisaFee": "RM 20-50 per entry pass depending on nationality",
+        "totalEstimated": "~$240 USD for 1-year multiple entry"
+      },
       "isTaxFree": true,
       "region": "asia",
       "allowedEmployment": [
@@ -258,7 +263,12 @@
       "taxArchetype": "special_flat",
       "taxBenefit": "50% tax exemption on annual salary income exceeding TWD 3 million for up to 5 years",
       "taxWarningNote": "Under the Foreign Professionals Act, 50% of annual salary income exceeding TWD 3 million is exempt from taxation for the first 5 years of residency.",
-      "fees": null,
+      "fees": {
+        "applicationFee": "NT$3,700 - NT$7,700 (~$120 - $250 USD) depending on nationality and duration (1-3 years)",
+        "issuanceFee": "Included in card fee",
+        "residentCertificateFee": "Included in 4-in-1 card (Work permit, resident visa, ARC, re-entry permit)",
+        "totalEstimated": "~$120 - $250 USD for 1 to 3-year Gold Card"
+      },
       "isTaxFree": false,
       "region": "asia",
       "allowedEmployment": [
@@ -1147,7 +1157,12 @@
       "taxArchetype": "business_concession",
       "taxBenefit": "Eligible for Small Business Status offering a flat 1% income tax rate on annual revenue up to 500,000 GEL (~$185,000 USD).",
       "taxWarningNote": "Freelancers/contractors registering as Individual Entrepreneurs can qualify for Georgia’s 1% Small Business flat tax rate on annual gross revenue up to 500,000 GEL.",
-      "fees": null,
+      "fees": {
+        "applicationFee": "$0 USD (Visa-free entry for 95+ nationalities)",
+        "individualEntrepreneurFee": "~50-100 GEL (~$20-$40 USD for Public Service Hall registration)",
+        "taxRate": "1% Flat turnover tax under Small Business Status",
+        "totalEstimated": "~$40 USD setup cost"
+      },
       "isTaxFree": true,
       "region": "europe",
       "allowedEmployment": [
@@ -1295,7 +1310,11 @@
       "taxArchetype": "pure_zero",
       "taxBenefit": "Foreign remote income remains untaxed in Turkey if staying under 183 days per calendar year.",
       "taxWarningNote": "Foreign remote workers are exempt from Turkish personal income tax provided remuneration is paid in foreign currency from outside Turkey.",
-      "fees": null,
+      "fees": {
+        "applicationFee": "$0 USD (Free certificate issuance on GoTürkiye digital portal)",
+        "residencePermitCardFee": "~$25-$50 USD depending on nationality (GÖÇ residence card fee)",
+        "totalEstimated": "~$25-$50 USD for 1-year residence permit card"
+      },
       "isTaxFree": true,
       "region": "europe",
       "allowedEmployment": [
