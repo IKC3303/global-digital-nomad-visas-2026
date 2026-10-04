@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-04T01:37:27.524Z",
+    "updatedAt": "2026-10-04T04:29:41.377Z",
     "totalCount": 35,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -396,7 +396,7 @@
         "Clean criminal record from country of origin"
       ],
       "governingBody": "Civil Registry and Migration Department (Ministry of Interior, Cyprus)",
-      "officialPortal": "http://www.moi.gov.cy/crmd",
+      "officialPortal": "https://www.gov.cy",
       "canonicalUrl": "https://oneisolve.com/visa/cyprus-dnv"
     },
     {
@@ -542,7 +542,7 @@
         "Proof of suitable accommodation in Italy and clean criminal record"
       ],
       "governingBody": "Ministry of Foreign Affairs and International Cooperation (MAECI) & Ministry of Interior",
-      "officialPortal": "https://vistoperitalia.esteri.it/",
+      "officialPortal": "https://serviziconsolarionline.esteri.it/",
       "canonicalUrl": "https://oneisolve.com/visa/italy-dnv"
     },
     {
@@ -871,7 +871,7 @@
         "Valid passport and clean criminal background check"
       ],
       "governingBody": "Department of Home Affairs (DHA, South Africa)",
-      "officialPortal": "https://www.gov.za/services/temporary-residence/visas",
+      "officialPortal": "https://www.vfsglobal.com/en/countries/south-africa.html",
       "canonicalUrl": "https://oneisolve.com/visa/southafrica-dnv"
     },
     {
@@ -1061,7 +1061,7 @@
         "Bank statements showing qualifying deposits for the last 3 months"
       ],
       "governingBody": "Ministry of Foreign Affairs (Cancillería de Colombia)",
-      "officialPortal": "https://www.cancilleria.gov.co/tramites_servicios/visa",
+      "officialPortal": "https://www.cancilleria.gov.co/tramites_servicios/visas",
       "canonicalUrl": "https://oneisolve.com/visa/colombia-v-nomadas"
     },
     {
@@ -1098,7 +1098,7 @@
         "Clean criminal record"
       ],
       "governingBody": "National Directorate-General for Aliens Policing (OIF Hungary)",
-      "officialPortal": "http://www.bmbah.hu/index.php?lang=en",
+      "officialPortal": "https://enterhungary.gov.hu",
       "canonicalUrl": "https://oneisolve.com/visa/hungary-whitecard"
     },
     {
