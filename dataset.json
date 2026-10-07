@@ -2,8 +2,8 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-05T12:17:07.646Z",
-    "totalCount": 35,
+    "updatedAt": "2026-10-07T22:24:56.627Z",
+    "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
   },
@@ -1331,6 +1331,215 @@
       "governingBody": "Ministry of Culture and Tourism (GoTürkiye) & Directorate General of Migration Management (GÖÇ)",
       "officialPortal": "https://digitalnomads.goturkiye.com/",
       "canonicalUrl": "https://oneisolve.com/visa/turkey-digital-nomad"
+    },
+    {
+      "id": "uruguay-dnv",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "visaName": "Digital Nomad Permit (Hoja de Identidad Provisoria)",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 1500,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$1,500 USD/mo (Sufficient Funds Proof)",
+        "period": "month",
+        "legalFormula": "Proof of Remote Independent Livelihood"
+      },
+      "stayDuration": "180 Days (Renewable up to 1 Year)",
+      "processingTime": "2-4 weeks (Online via Gub.uy)",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "100% Tax Exemption on Foreign-Sourced Income under Uruguay's territorial tax principle.",
+      "taxWarningNote": "Staying over 183 days may trigger general tax residency, but foreign remote income remains untaxed under territorial source exemptions. Local Uruguayan clients would be subject to local taxes.",
+      "fees": {
+        "applicationFee": "~$60 USD (Online DNM administrative fee)",
+        "residencyCardFee": "~$20 USD (Hoja de Identidad Provisoria credential)",
+        "totalEstimated": "~$80 USD total official government cost"
+      },
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment or freelance contracts outside Uruguay",
+        "Signed affidavit (Declaración Jurada) confirming independent remote income",
+        "Valid passport with at least 6 months validity",
+        "Comprehensive international health insurance covering stay in Uruguay"
+      ],
+      "governingBody": "National Migration Directorate (Dirección Nacional de Migración - DNM)",
+      "officialPortal": "https://www.gub.uy/tramites/hoja-identidad-provisoria",
+      "canonicalUrl": "https://oneisolve.com/visa/uruguay-dnv"
+    },
+    {
+      "id": "albania-dnv",
+      "country": "Albania",
+      "countryCode": "AL",
+      "visaName": "Unique Permit for Digital Nomads (Leje Unike)",
+      "minIncomeUSD": 1000,
+      "statutoryIncome": {
+        "amount": 1000,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$1,000 USD/mo (or ~€9,600 EUR/yr)",
+        "period": "month",
+        "legalFormula": "2x Albanian Statutory Minimum Wage"
+      },
+      "stayDuration": "1 Year (Renewable up to 5 Years)",
+      "processingTime": "3-6 weeks (via e-Albania portal)",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "0% Personal Income Tax on foreign remote earnings for certified digital nomads during the first year.",
+      "taxWarningNote": "Foreign income is non-taxable under the Law on Foreigners for nomad status. Consult a local accountant if registering an Albanian LLC or staying into year 2+.",
+      "fees": {
+        "applicationFee": "€50 EUR (State portal fee)",
+        "residencyCardFee": "€50 EUR (Plastic residence card issue)",
+        "totalEstimated": "~€100 EUR (~$110 USD)"
+      },
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Valid remote employment contract with foreign company or service contracts with foreign clients",
+        "Proof of annual earnings of at least ~€9,600 EUR (~$10,500 USD/year or ~$850-$1,000/mo)",
+        "Verified Albanian rental lease agreement (notarized)",
+        "Clean criminal background check apostilled by home country",
+        "International travel & health insurance covering Albania"
+      ],
+      "governingBody": "Ministry of Interior & Department of Border and Migration",
+      "officialPortal": "https://e-albania.al/",
+      "canonicalUrl": "https://oneisolve.com/visa/albania-dnv"
+    },
+    {
+      "id": "serbia-dnv",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "visaName": "Temporary Residence for Remote Workers",
+      "minIncomeUSD": 3800,
+      "statutoryIncome": {
+        "amount": 3500,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€3,500 EUR/mo (~$3,800 USD)",
+        "period": "month",
+        "legalFormula": "Standard Non-Resident Remote Worker Income Proof"
+      },
+      "stayDuration": "1 Year (Renewable)",
+      "processingTime": "2-4 weeks (via Welcome to Serbia portal)",
+      "taxArchetype": "business_concession",
+      "taxBenefit": "Exemption on foreign employment income for non-residents up to 90 days; favorable lump-sum flat tax (Paušal) option available for long stays.",
+      "taxWarningNote": "Residency over 183 days establishes tax residency. Remote freelancers often leverage the Serbian Paušal (flat lump-sum entrepreneur) tax regime for low effective tax rates.",
+      "fees": {
+        "applicationFee": "~€80 EUR (State administrative fee)",
+        "residencyCardFee": "~€30 EUR (Biometric residence permit)",
+        "totalEstimated": "~€110 EUR (~$120 USD)"
+      },
+      "isTaxFree": false,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Foreign employment contract or continuous freelance service contracts",
+        "Proof of monthly income of at least ~€3,500 EUR or proof of sufficient funds",
+        "Lease agreement in Serbia registered with the local police (Beli Karton - White Card)",
+        "Valid passport with at least 15 months validity",
+        "Health insurance policy valid in the Republic of Serbia"
+      ],
+      "governingBody": "Ministry of Interior (MUP) & Serbian Government Welcome Office",
+      "officialPortal": "https://welcome.gov.rs/",
+      "canonicalUrl": "https://oneisolve.com/visa/serbia-dnv"
+    },
+    {
+      "id": "north-macedonia-dnv",
+      "country": "North Macedonia",
+      "countryCode": "MK",
+      "visaName": "Digital Nomad Temporary Residence",
+      "minIncomeUSD": 1650,
+      "statutoryIncome": {
+        "amount": 1500,
+        "currency": "EUR",
+        "currencySymbol": "€",
+        "formatted": "€1,500 EUR/mo (~$1,650 USD)",
+        "period": "month",
+        "legalFormula": "2.5x National Average Net Wage"
+      },
+      "stayDuration": "1 Year (Renewable up to 3 Years)",
+      "processingTime": "3-5 weeks",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "0% local tax on foreign-sourced income or flat 10% rate for local registrations—one of Europe's lowest tax regimes.",
+      "taxWarningNote": "Foreign income earned completely outside North Macedonia is non-taxable under the remote resident framework.",
+      "fees": {
+        "applicationFee": "~€60 EUR (MVR administrative fee)",
+        "residencyCardFee": "~€25 EUR (ID card issuance)",
+        "totalEstimated": "~€85 EUR (~$95 USD)"
+      },
+      "isTaxFree": true,
+      "region": "europe",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Remote contract with a foreign company or freelance service contracts",
+        "Proof of minimum monthly income of at least ~€1,500 EUR (~$1,650 USD/mo)",
+        "Notarized rental contract for accommodation in North Macedonia",
+        "Apostilled clean police clearance certificate",
+        "Comprehensive health insurance policy covering North Macedonia"
+      ],
+      "governingBody": "Ministry of Internal Affairs (MVR) & Ministry of Information Society",
+      "officialPortal": "https://mvr.gov.mk/",
+      "canonicalUrl": "https://oneisolve.com/visa/north-macedonia-dnv"
+    },
+    {
+      "id": "paraguay-dnv",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "visaName": "Temporary Residence (Ley 6984 Nomad Category)",
+      "minIncomeUSD": 1500,
+      "statutoryIncome": {
+        "amount": 1500,
+        "currency": "USD",
+        "currencySymbol": "$",
+        "formatted": "$1,500 USD/mo (or $5k bank deposit)",
+        "period": "month",
+        "legalFormula": "Statutory Solvency under Ley 6984"
+      },
+      "stayDuration": "2 Years (Renewable / Leads to Permanent Residence)",
+      "processingTime": "4-8 weeks in Asunción",
+      "taxArchetype": "pure_zero",
+      "taxBenefit": "100% Tax-Free on foreign-sourced remote income under Paraguay's strict territorial tax system.",
+      "taxWarningNote": "Paraguay enforces pure territorial taxation. Remote income earned from outside Paraguay is legally 0% taxed, even for full tax residents.",
+      "fees": {
+        "applicationFee": "~$200 USD (Migraciones application and processing tariff)",
+        "residencyCardFee": "~$50 USD (Cédula de Identidad issue fee)",
+        "totalEstimated": "~$250 USD total government fees"
+      },
+      "isTaxFree": true,
+      "region": "americas",
+      "allowedEmployment": [
+        "employee",
+        "freelancer",
+        "business_owner"
+      ],
+      "requirements": [
+        "Proof of remote employment, freelancing, or independent business operation abroad",
+        "Proof of financial solvency (~$1,500 USD/mo or ~$5,000 USD bank deposit proof)",
+        "Apostilled clean criminal record check from country of citizenship and recent residence",
+        "Apostilled birth certificate",
+        "Interpol clearance report obtained in Asunción"
+      ],
+      "governingBody": "National Directorate of Migration (Dirección Nacional de Migraciones)",
+      "officialPortal": "https://www.migraciones.gov.py/",
+      "canonicalUrl": "https://oneisolve.com/visa/paraguay-dnv"
     }
   ]
 }
