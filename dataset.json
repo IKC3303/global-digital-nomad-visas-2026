@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-08T14:13:02.481Z",
+    "updatedAt": "2026-10-09T02:01:03.846Z",
     "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -147,7 +147,12 @@
       "taxArchetype": "standard_global",
       "taxBenefit": "Tax residency is triggered if staying more than 183 days in a 12-month period, subject to standard flat personal income tax rate or tax treaty protections.",
       "taxWarningNote": "Staying more than 183 days in a 12-month period triggers Estonian tax residency, subjecting worldwide income to standard flat personal income tax (20%-22%).",
-      "fees": null,
+      "fees": {
+        "applicationFee": "€100 EUR (Type D Long-Stay Visa statutory fee)",
+        "issuanceFee": "Included in application fee",
+        "residencyCardFee": "Not applicable (D-Visa sticker in passport)",
+        "totalEstimated": "~€100 EUR (~$110 USD)"
+      },
       "isTaxFree": false,
       "region": "europe",
       "allowedEmployment": [
