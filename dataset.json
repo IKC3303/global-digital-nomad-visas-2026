@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-17T11:13:41.727Z",
+    "updatedAt": "2026-10-17T12:00:34.794Z",
     "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -108,11 +108,11 @@
       },
       "stayDuration": "6 Months (Non-renewable)",
       "processingTime": "2-4 weeks",
-      "taxArchetype": "pure_zero",
-      "taxBenefit": "Exempt from local income tax during the 6-month stay for residents of eligible tax-treaty countries.",
-      "taxWarningNote": "Digital nomad visa holders staying up to 6 months are exempt from Japanese local income taxes under bilateral double taxation treaties.",
+      "taxArchetype": "treaty_exempt",
+      "taxBenefit": "Non-residents from eligible bilateral tax-treaty countries are exempt from Japanese local income tax during the 6-month stay.",
+      "taxWarningNote": "Japan is NOT a zero-tax haven. The 6-month stay avoids tax residency only under bilateral Double Taxation Treaties for qualifying non-residents.",
       "fees": null,
-      "isTaxFree": true,
+      "isTaxFree": false,
       "region": "asia",
       "allowedEmployment": [
         "employee",
@@ -420,11 +420,11 @@
       },
       "stayDuration": "180 days",
       "processingTime": "3-4 weeks",
-      "taxArchetype": "pure_zero",
-      "taxBenefit": "Exempt from Icelandic income tax for stays up to 180 days",
-      "taxWarningNote": null,
+      "taxArchetype": "standard_global",
+      "taxBenefit": "Exempt from Icelandic tax solely because the 180-day stay is legally capped below the 183-day tax residency threshold.",
+      "taxWarningNote": "Iceland is NOT a tax haven. Standard Icelandic personal tax rates reach up to 46.25%. The 180-day permit only avoids local tax because holders do not establish fiscal residency.",
       "fees": null,
-      "isTaxFree": true,
+      "isTaxFree": false,
       "region": "europe",
       "allowedEmployment": [
         "employee",
@@ -1065,7 +1065,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Minimum monthly income of 3x Colombian minimum wage (~$1,500 USD/month)",
+        "Minimum monthly income of at least 175 daily minimum wages (SMLDV, approx. $1,500 USD/month under Resolution 5477)",
         "Letter from foreign employer or freelance contracts in Spanish/English",
         "Health insurance policy covering international medical expenses and repatriation in Colombia",
         "Bank statements showing qualifying deposits for the last 3 months"
