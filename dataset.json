@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-19T09:27:57.224Z",
+    "updatedAt": "2026-10-19T10:35:21.405Z",
     "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -55,7 +55,7 @@
       "country": "Spain",
       "countryCode": "ES",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 2646,
+      "minIncomeUSD": 2880,
       "statutoryIncome": {
         "amount": 2646,
         "currency": "EUR",
@@ -133,7 +133,7 @@
       "country": "Estonia",
       "countryCode": "EE",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 4500,
+      "minIncomeUSD": 4900,
       "statutoryIncome": {
         "amount": 4500,
         "currency": "EUR",
@@ -175,7 +175,7 @@
       "country": "Croatia",
       "countryCode": "HR",
       "visaName": "Temporary Stay of Digital Nomads",
-      "minIncomeUSD": 2539,
+      "minIncomeUSD": 2760,
       "statutoryIncome": {
         "amount": 2539,
         "currency": "EUR",
@@ -336,7 +336,7 @@
       "country": "Greece",
       "countryCode": "GR",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 3500,
+      "minIncomeUSD": 3800,
       "statutoryIncome": {
         "amount": 3500,
         "currency": "EUR",
@@ -372,7 +372,7 @@
       "country": "Cyprus",
       "countryCode": "CY",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 3500,
+      "minIncomeUSD": 3800,
       "statutoryIncome": {
         "amount": 3500,
         "currency": "EUR",
@@ -484,10 +484,10 @@
       "visaName": "Long-Term Visa for Business Purposes (Živno)",
       "minIncomeUSD": 1300,
       "statutoryIncome": {
-        "amount": 180000,
+        "amount": 156500,
         "currency": "CZK",
         "currencySymbol": "CZK ",
-        "formatted": "180,000 CZK Funds",
+        "formatted": "156,500 CZK Funds (~$6,800 USD)",
         "period": "savings",
         "legalFormula": "Trade License Bank Balance Solvency"
       },
@@ -505,7 +505,7 @@
       ],
       "requirements": [
         "Active Czech Trade License (Živnostenský list)",
-        "Proof of available funds (minimum ~156,500 CZK in a bank account)",
+        "Proof of available funds (minimum 156,500 CZK / ~$6,800 USD in a bank account)",
         "Proof of accommodation in the Czech Republic for the duration of stay",
         "Clean criminal record from home country and recent countries of residence"
       ],
@@ -518,7 +518,7 @@
       "country": "Italy",
       "countryCode": "IT",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 2333,
+      "minIncomeUSD": 2550,
       "statutoryIncome": {
         "amount": 28000,
         "currency": "EUR",
@@ -555,7 +555,7 @@
       "country": "Romania",
       "countryCode": "RO",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 3700,
+      "minIncomeUSD": 4020,
       "statutoryIncome": {
         "amount": 3700,
         "currency": "EUR",
@@ -852,12 +852,12 @@
       "country": "South Africa",
       "countryCode": "ZA",
       "visaName": "Remote Work Visitor Visa",
-      "minIncomeUSD": 4500,
+      "minIncomeUSD": 3000,
       "statutoryIncome": {
-        "amount": 650000,
+        "amount": 650796,
         "currency": "ZAR",
         "currencySymbol": "R ",
-        "formatted": "R 650,000 ZAR/yr (~R 54k/mo)",
+        "formatted": "R 650,796 ZAR/yr (~R 54.2k/mo)",
         "period": "year",
         "legalFormula": "Immigration Act Amendment 2024 Threshold"
       },
@@ -875,7 +875,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Minimum annual income requirement of 1,000,000 ZAR (~83,333 ZAR per month)",
+        "Minimum annual income requirement of 650,796 ZAR (~54,233 ZAR per month / ~$3,000 USD per month under revised 2024 gazette)",
         "Proof of remote employment, freelancing, or business ownership outside South Africa",
         "Comprehensive health insurance for the entire duration of stay",
         "Valid passport and clean criminal background check"
@@ -928,10 +928,10 @@
       "visaName": "Workation Visa (F-1-D)",
       "minIncomeUSD": 5500,
       "statutoryIncome": {
-        "amount": 85000000,
+        "amount": 88000000,
         "currency": "KRW",
         "currencySymbol": "₩",
-        "formatted": "₩85,000,000 KRW/yr (~₩7.08M/mo)",
+        "formatted": "₩88,000,000 KRW/yr (~₩7.33M/mo)",
         "period": "year",
         "legalFormula": "2x Prior Year Gross National Income (GNI)"
       },
@@ -965,10 +965,10 @@
       "visaName": "Nomad Residence Permit",
       "minIncomeUSD": 2950,
       "statutoryIncome": {
-        "amount": 2950,
+        "amount": 2700,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€2,950 EUR/mo",
+        "formatted": "€2,700 EUR/mo",
         "period": "month",
         "legalFormula": "Residency Malta Statutory Threshold"
       },
