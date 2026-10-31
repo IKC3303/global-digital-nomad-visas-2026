@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-29T13:41:44.751Z",
+    "updatedAt": "2026-10-31T04:18:52.110Z",
     "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -591,15 +591,15 @@
       "id": "bermuda-work",
       "country": "Bermuda",
       "countryCode": "BM",
-      "visaName": "Work From Bermuda Certificate",
+      "visaName": "Work From Bermuda Certificate (Discontinued for New Applicants / Annual Residency Transition)",
       "minIncomeUSD": 0,
       "statutoryIncome": {
         "amount": 0,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "Proof of Employment",
+        "formatted": "Closed to New Applicants (Permission to Reside on Annual Basis)",
         "period": "month",
-        "legalFormula": "Work from Bermuda Certificate Policy"
+        "legalFormula": "Ministerial Policy Statement under Immigration Act 1956 (Sunset Feb 28, 2025; Successor: Permission to Reside on an Annual Basis)"
       },
       "stayDuration": "1 Year (Renewable)",
       "processingTime": "10-15 business days",
@@ -615,6 +615,7 @@
         "business_owner"
       ],
       "requirements": [
+        "Program closed to initial intake effective February 28, 2025. Existing certificate holders transition to Permission to Reside on an Annual Basis; new remote worker applicants must utilize the Annual Residency route.",
         "Demonstrate a continuous source of income or substantial financial means",
         "Valid health insurance coverage in Bermuda",
         "Proof of employment with a foreign entity or ownership of a foreign company",
@@ -634,9 +635,9 @@
         "amount": 0,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "Proof of Remote Income",
+        "formatted": "Proof of Remote Income / Sufficient Means",
         "period": "month",
-        "legalFormula": "BEATS Program Self-Sufficiency"
+        "legalFormula": "Bahamas Extended Access Travel Stay (BEATS) Program Regulations (No Codified Numeric Floor)"
       },
       "stayDuration": "1 Year (Renewable up to 3 Years)",
       "processingTime": "5 business days",
@@ -670,9 +671,9 @@
         "amount": 3000,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$3,000 USD/mo",
+        "formatted": "$3,000 USD/mo ($4,000 with dependents)",
         "period": "month",
-        "legalFormula": "Ley 10008 ($4,000 with dependents)"
+        "legalFormula": "Ley N° 10008 / Decreto Ejecutivo N° 43619-MGP-S (Art. 10)"
       },
       "stayDuration": "1 Year (Renewable for 1 additional year)",
       "processingTime": "15-30 business days",
@@ -706,9 +707,9 @@
         "amount": 1500,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$1,500 USD/mo (or $18k savings)",
+        "formatted": "$1,500 USD/mo (or $18,000 savings)",
         "period": "month",
-        "legalFormula": "National Immigration Council Resolution 45"
+        "legalFormula": "Resolução Normativa CNIG/MJSP Nº 45 (VITEM XIV)"
       },
       "stayDuration": "1 Year (Renewable for up to 1 year)",
       "processingTime": "2-4 weeks",
@@ -748,9 +749,9 @@
         "amount": 1500,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$1,500 USD/mo",
+        "formatted": "Consular Baseline: ~$1,500 USD/mo (No Statutory Numeric Floor)",
         "period": "month",
-        "legalFormula": "Disposición 758/2022"
+        "legalFormula": "Disposición 758/2022 (Proof of Remote Contract & Sufficient Funds; $1,500 USD Informal Consular Guideline)"
       },
       "stayDuration": "180 Days (Renewable once for up to 180 Days)",
       "processingTime": "10-20 business days",
@@ -766,9 +767,9 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote work contract, freelance services, or company ownership outside Argentina",
+        "Demonstrate proof of foreign remote work contract, freelance services, or company ownership outside Argentina and sufficient funds (Disposición 758/2022 sets no statutory numerical floor; consulates operationalize ~$1,500 USD/mo as a benchmark)",
         "Valid passport and detailed professional CV or portfolio",
-        "Clean criminal background check from country of origin or residence"
+        "Clean criminal background check from country of origin or residence with certified translation"
       ],
       "governingBody": "Dirección Nacional de Migraciones (DNM Argentina) & Visit Argentina",
       "officialPortal": "https://www.argentina.gob.ar/migraciones",
@@ -784,9 +785,9 @@
         "amount": 1500,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$1,500 USD/mo",
+        "formatted": "$1,500 USD/mo (+ $500 USD/mo per dependent under 24)",
         "period": "month",
-        "legalFormula": "EDB Mauritius Premium Visa Guidelines"
+        "legalFormula": "EDB Mauritius Premium Visa Guidelines ($1,500/mo + $500/mo per dependent)"
       },
       "stayDuration": "1 Year (Renewable)",
       "processingTime": "14-21 business days",
@@ -802,7 +803,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of monthly income of at least USD 1,500",
+        "Proof of recurring monthly income or certified bank balance of at least USD $1,500 per adult applicant, supplemented by $500 USD per month for each accompanying dependent under 24 years",
         "Main source of income and business activity outside Mauritius",
         "Valid travel and health insurance covering the duration of stay",
         "Valid passport and return/onward flight ticket"
@@ -821,9 +822,9 @@
         "amount": 0,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "Proof of Remote Earnings",
+        "formatted": "Proof of Remote Earnings / Sufficient Financial Means",
         "period": "month",
-        "legalFormula": "Seychelles Workcation Retreat Protocol"
+        "legalFormula": "Seychelles Visitors Workcation Permit (VWP) Statutory Protocol (No Fixed Numeric Floor)"
       },
       "stayDuration": "Up to 1 Year",
       "processingTime": "9-12 business days",
@@ -857,9 +858,9 @@
         "amount": 650796,
         "currency": "ZAR",
         "currencySymbol": "R ",
-        "formatted": "R 650,796 ZAR/yr (~R 54.2k/mo)",
+        "formatted": "R 650,796 ZAR/yr (~R 54,233/mo)",
         "period": "year",
-        "legalFormula": "Immigration Act Amendment 2024 Threshold"
+        "legalFormula": "Immigration Regulations 2024 Reg. 11(4) under Act 13 of 2002 (Operational DHA Checklist R 650,796; Gazette Baseline R 650,976)"
       },
       "stayDuration": "Up to 1 Year (Renewable up to 3 Years)",
       "processingTime": "30-60 business days",
@@ -1048,14 +1049,14 @@
       "country": "Colombia",
       "countryCode": "CO",
       "visaName": "Visa V Nómadas Digitales",
-      "minIncomeUSD": 1500,
+      "minIncomeUSD": 1350,
       "statutoryIncome": {
-        "amount": 175,
+        "amount": 5252715,
         "currency": "COP",
         "currencySymbol": "COP ",
-        "formatted": "175 SMLMV (~6.5M COP / ~$1,500 USD)",
+        "formatted": "3 SMLMV/mo (~5,252,715 COP/mo in 2026 / ~$1,350 USD)",
         "period": "month",
-        "legalFormula": "175x Daily Minimum Legal Wage (SMLMV)"
+        "legalFormula": "3 Monthly Minimum Legal Wages (3 SMLMV demonstrated over prior 3 months under Resolución 5477 Art. 46(4))"
       },
       "stayDuration": "Up to 2 Years (180 days per calendar year without tax residency trigger)",
       "processingTime": "15-30 business days",
@@ -1076,7 +1077,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Minimum monthly income of at least 175 daily minimum wages (SMLDV, approx. $1,500 USD/month under Resolution 5477)",
+        "Minimum monthly income of at least 3 monthly minimum legal wages (3 SMLMV, ~5,252,715 COP/mo in 2026 / ~$1,350 USD) demonstrated over the prior 3 months under Resolution 5477 Art. 46(4)",
         "Letter from foreign employer or freelance contracts in Spanish/English",
         "Health insurance policy covering international medical expenses and repatriation in Colombia",
         "Bank statements showing qualifying deposits for the last 3 months"
@@ -1127,14 +1128,14 @@
       "country": "Mexico",
       "countryCode": "MX",
       "visaName": "Temporary Resident Visa (Remote Income)",
-      "minIncomeUSD": 3200,
+      "minIncomeUSD": 4000,
       "statutoryIncome": {
-        "amount": 73000,
+        "amount": 79771,
         "currency": "MXN",
         "currencySymbol": "MXN ",
-        "formatted": "73,000 MXN/mo (~$3,600 USD)",
+        "formatted": "79,771 MXN/mo (~$4,000 USD / 680 days UMA)",
         "period": "month",
-        "legalFormula": "UMAs Minimum Monthly Net Formula"
+        "legalFormula": "680 Days of UMA Net Monthly Income (July 2025 DOF Lineamientos Generales; 2026 UMA $117.31/day)"
       },
       "stayDuration": "1 Year (Renewable up to 4 Years, leading to Permanent Residency)",
       "processingTime": "10-20 business days via Mexican Consulates",
@@ -1150,7 +1151,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Monthly income of approx. $3,200-$3,600 USD for the last 6 months OR bank balance of $54,000+ USD for 12 months",
+        "Monthly net income of at least 680 days of UMA (~$79,771 MXN/mo / ~$4,000 USD) for each of the last 6 months OR bank balance of 20,000 days of UMA for 12 months under July 2025 DOF Lineamientos",
         "Proof of remote employment, freelancing, or investments outside Mexico",
         "Valid passport and consular appointment in home country",
         "Exchange visa sticker for Canje resident card at INM within 30 days of arrival"
@@ -1211,9 +1212,9 @@
         "amount": 50000,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$50,000 USD/yr (~$4,166/mo)",
+        "formatted": "$50,000 USD/yr (BBD 100,000/yr pegged at 2:1)",
         "period": "year",
-        "legalFormula": "Barbados Welcome Stamp Framework"
+        "legalFormula": "Remote Employment Act, 2020 (Act 2020-23 Pegged 2:1)"
       },
       "stayDuration": "12 Months (Renewable)",
       "processingTime": "5-7 business days via online portal",
@@ -1248,9 +1249,9 @@
         "amount": 3000,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$3,000 USD/mo (or $4,000 family)",
+        "formatted": "B/. 36,000 USD/yr (B/. 3,000 USD/mo)",
         "period": "month",
-        "legalFormula": "Executive Decree 198 of 2021"
+        "legalFormula": "Decreto Ejecutivo No. 198 (Strict Individual Foreign-Source Income Floor; No Codified $4,000 Family Tier)"
       },
       "stayDuration": "9 Months (Renewable for an additional 9 months; 18 months total)",
       "processingTime": "20-30 business days",
@@ -1266,7 +1267,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Annual foreign-sourced income of at least $36,000 USD ($3,000/month) + $1,000/mo per dependent",
+        "Annual foreign-sourced remote income of at least B/. 36,000 USD ($3,000 USD/month) under Decreto Ejecutivo No. 198 (individual applicant threshold)",
         "Proof of remote employment, services, or business operations outside Panama",
         "Clean criminal background check from home country (apostilled)",
         "Comprehensive medical insurance valid in Panama"
@@ -1280,14 +1281,14 @@
       "country": "Montenegro",
       "countryCode": "ME",
       "visaName": "Digital Nomad Temporary Residence Permit",
-      "minIncomeUSD": 1500,
+      "minIncomeUSD": 1950,
       "statutoryIncome": {
-        "amount": 1400,
+        "amount": 1800,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€1,400 EUR/mo",
+        "formatted": "€1,800 to €2,400 EUR/mo (3x Minimum Wage)",
         "period": "month",
-        "legalFormula": "Foreigners Act Amendment Threshold"
+        "legalFormula": "3x National Minimum Wage under Europe Now 2 (€1,800/mo secondary / €2,400/mo higher education)"
       },
       "stayDuration": "2 Years (Renewable for an additional 2 years)",
       "processingTime": "20-30 calendar days",
@@ -1303,7 +1304,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote monthly income of at least 3x the Montenegrin minimum wage (~€1,400/month)",
+        "Proof of remote monthly income of at least 3x the national minimum wage (€1,800 EUR/month for secondary qualifications, €2,400 EUR/month for university-educated applicants under Europe Now 2 reforms)",
         "Employment with a non-Montenegrin company or foreign registered business ownership",
         "Registered residential lease in Montenegro",
         "Clean criminal record check and private health insurance"
@@ -1358,14 +1359,14 @@
       "country": "Uruguay",
       "countryCode": "UY",
       "visaName": "Digital Nomad Permit (Hoja de Identidad Provisoria)",
-      "minIncomeUSD": 1500,
+      "minIncomeUSD": 0,
       "statutoryIncome": {
-        "amount": 1500,
+        "amount": 0,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$1,500 USD/mo (Sufficient Funds Proof)",
+        "formatted": "Affidavit of Self-Sufficiency (Declaración Jurada; No Codified Numeric Floor)",
         "period": "month",
-        "legalFormula": "Proof of Remote Independent Livelihood"
+        "legalFormula": "Decreto N° 238/022 (Sworn Statement of Sufficient Remote Means of Subsistence)"
       },
       "stayDuration": "180 Days (Renewable up to 1 Year)",
       "processingTime": "2-4 weeks (Online via Gub.uy)",
@@ -1385,8 +1386,8 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote employment or freelance contracts outside Uruguay",
-        "Signed affidavit (Declaración Jurada) confirming independent remote income",
+        "Signed sworn affidavit (Declaración Jurada) confirming sufficient independent remote livelihood under Decreto N° 238/022 (Uruguayan law establishes no fixed numerical income floor for digital nomads)",
+        "Proof of remote employment or freelance contracts originating strictly outside Uruguay",
         "Valid passport with at least 6 months validity",
         "Comprehensive international health insurance covering stay in Uruguay"
       ],
@@ -1399,14 +1400,14 @@
       "country": "Albania",
       "countryCode": "AL",
       "visaName": "Unique Permit for Digital Nomads (Leje Unike)",
-      "minIncomeUSD": 1000,
+      "minIncomeUSD": 900,
       "statutoryIncome": {
-        "amount": 1000,
-        "currency": "USD",
-        "currencySymbol": "$",
-        "formatted": "$1,000 USD/mo (or ~€9,600 EUR/yr)",
+        "amount": 80000,
+        "currency": "ALL",
+        "currencySymbol": "ALL ",
+        "formatted": "80,000 - 100,000 ALL/mo (~€800-€1,000/mo or 300,000 ALL Deposit)",
         "period": "month",
-        "legalFormula": "2x Albanian Statutory Minimum Wage"
+        "legalFormula": "Law 79/2021 Art. 68 / VKM 858/2021 (Discretionary Subsistence Benchmark; No Rigid 2x Multiplier)"
       },
       "stayDuration": "1 Year (Renewable up to 5 Years)",
       "processingTime": "3-6 weeks (via e-Albania portal)",
@@ -1427,7 +1428,7 @@
       ],
       "requirements": [
         "Valid remote employment contract with foreign company or service contracts with foreign clients",
-        "Proof of annual earnings of at least ~€9,600 EUR (~$10,500 USD/year or ~$850-$1,000/mo)",
+        "Proof of foreign earnings meeting living sufficiency benchmarks (~80,000 to 100,000 ALL/month, approx. €800–€1,000/mo) or local bank balance deposit of 300,000 ALL",
         "Verified Albanian rental lease agreement (notarized)",
         "Clean criminal background check apostilled by home country",
         "International travel & health insurance covering Albania"
@@ -1440,15 +1441,15 @@
       "id": "serbia-dnv",
       "country": "Serbia",
       "countryCode": "RS",
-      "visaName": "Temporary Residence for Remote Workers",
-      "minIncomeUSD": 3800,
+      "visaName": "Single Permit & Self-Employment (No Dedicated DNV Category)",
+      "minIncomeUSD": 0,
       "statutoryIncome": {
-        "amount": 3500,
+        "amount": 0,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€3,500 EUR/mo (~$3,800 USD)",
+        "formatted": "Statutory Subsistence / Entrepreneurial Income (No Dedicated DNV Category)",
         "period": "month",
-        "legalFormula": "Standard Non-Resident Remote Worker Income Proof"
+        "legalFormula": "Law on Foreigners / Single Permit Rulebook (Legacy €3,500 Announcement Never Codified; General Subsistence Applies)"
       },
       "stayDuration": "1 Year (Renewable)",
       "processingTime": "2-4 weeks (via Welcome to Serbia portal)",
@@ -1468,9 +1469,9 @@
         "business_owner"
       ],
       "requirements": [
-        "Foreign employment contract or continuous freelance service contracts",
-        "Proof of monthly income of at least ~€3,500 EUR or proof of sufficient funds",
-        "Lease agreement in Serbia registered with the local police (Beli Karton - White Card)",
+        "Foreign remote employment, registered entrepreneurship (Paušal), or corporate formation under Law on Foreigners (no dedicated statutory digital nomad visa pathway exists)",
+        "Demonstrate regular means of subsistence and local address registration (White Card / Beli Karton)",
+        "Lease agreement in Serbia registered with the local police",
         "Valid passport with at least 15 months validity",
         "Health insurance policy valid in the Republic of Serbia"
       ],
@@ -1482,15 +1483,15 @@
       "id": "north-macedonia-dnv",
       "country": "North Macedonia",
       "countryCode": "MK",
-      "visaName": "Digital Nomad Temporary Residence",
-      "minIncomeUSD": 1650,
+      "visaName": "Digital Nomad Temporary Residence (Unenacted / Draft Legislation)",
+      "minIncomeUSD": 0,
       "statutoryIncome": {
-        "amount": 1500,
+        "amount": 0,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€1,500 EUR/mo (~$1,650 USD)",
+        "formatted": "Unenacted / Draft Legislation (No Statutory DNV in Force)",
         "period": "month",
-        "legalFormula": "2.5x National Average Net Wage"
+        "legalFormula": "Proposed 2.5x Average Net Wage Proposal Never Promulgated by Assembly into Law on Foreigners"
       },
       "stayDuration": "1 Year (Renewable up to 3 Years)",
       "processingTime": "3-5 weeks",
@@ -1510,11 +1511,8 @@
         "business_owner"
       ],
       "requirements": [
-        "Remote contract with a foreign company or freelance service contracts",
-        "Proof of minimum monthly income of at least ~€1,500 EUR (~$1,650 USD/mo)",
-        "Notarized rental contract for accommodation in North Macedonia",
-        "Apostilled clean police clearance certificate",
-        "Comprehensive health insurance policy covering North Macedonia"
+        "Status: Draft Legislation / Unenacted. Proposed €1,500/mo (2.5x average wage) amendments were not passed into the Law on Foreigners by the Assembly; foreign remote workers have no statutory legal ground for a digital nomad visa.",
+        "Foreign remote workers seeking legal residency must utilize general temporary residence pathways (e.g. company registration, employment, or real estate grounds)"
       ],
       "governingBody": "Ministry of Internal Affairs (MVR) & Ministry of Information Society",
       "officialPortal": "https://mvr.gov.mk/",
@@ -1525,14 +1523,14 @@
       "country": "Paraguay",
       "countryCode": "PY",
       "visaName": "Temporary Residence (Ley 6984 Nomad Category)",
-      "minIncomeUSD": 1500,
+      "minIncomeUSD": 0,
       "statutoryIncome": {
-        "amount": 1500,
+        "amount": 0,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$1,500 USD/mo (or $5k bank deposit)",
+        "formatted": "Verifiable Remote Contract / Invoicing (No $5k Deposit or Fixed Dollar Floor)",
         "period": "month",
-        "legalFormula": "Statutory Solvency under Ley 6984"
+        "legalFormula": "Resolución DNM N.° 407/2026 reglamentaria de la Ley N° 6984/2022 (Categoría 5)"
       },
       "stayDuration": "2 Years (Renewable / Leads to Permanent Residence)",
       "processingTime": "4-8 weeks in Asunción",
@@ -1552,8 +1550,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote employment, freelancing, or independent business operation abroad",
-        "Proof of financial solvency (~$1,500 USD/mo or ~$5,000 USD bank deposit proof)",
+        "Verifiable proof of remote employment contract, consulting agreements, or offshore invoicing and banking remittances under Resolución DNM N.° 407/2026 (the legacy $5,000 USD solvency deposit under repealed Ley 978/1996 has been eliminated)",
         "Apostilled clean criminal record check from country of citizenship and recent residence",
         "Apostilled birth certificate",
         "Interpol clearance report obtained in Asunción"
