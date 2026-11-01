@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-10-31T10:36:30.829Z",
+    "updatedAt": "2026-11-01T03:23:12.800Z",
     "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -13,14 +13,14 @@
       "country": "Portugal",
       "countryCode": "PT",
       "visaName": "D8 Digital Nomad Visa",
-      "minIncomeUSD": 3500,
+      "minIncomeUSD": 3980,
       "statutoryIncome": {
-        "amount": 3280,
+        "amount": 3680,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€3,280 EUR/mo",
+        "formatted": "€3,680 EUR/mo",
         "period": "month",
-        "legalFormula": "4x Portuguese Minimum Wage"
+        "legalFormula": "4x Portuguese Minimum Wage (4x €920 RMMG under Decreto-Lei n.º 139/2025)"
       },
       "stayDuration": "1 to 2 Years (Renewable)",
       "processingTime": "3-4 months",
@@ -41,7 +41,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote income equivalent to 4x the Portuguese minimum wage (~EUR 3,280/month).",
+        "Proof of remote income equivalent to 4x the Portuguese minimum wage (~EUR 3,680/month under Decreto-Lei n.º 139/2025).",
         "NIF (Tax Identification Number) and a Portuguese bank account.",
         "Proof of accommodation in Portugal for at least 1 year.",
         "Clean criminal record."
@@ -55,14 +55,14 @@
       "country": "Spain",
       "countryCode": "ES",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 2880,
+      "minIncomeUSD": 3100,
       "statutoryIncome": {
-        "amount": 2646,
+        "amount": 2849,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€2,646 EUR/mo",
+        "formatted": "€2,849 EUR/mo",
         "period": "month",
-        "legalFormula": "200% Spanish Minimum Wage (SMI)"
+        "legalFormula": "200% Spanish Minimum Wage (SMI at €1,221 in 14 payments under Real Decreto 126/2026)"
       },
       "stayDuration": "1 Year via embassy or 3 Years via UGE (Renewable up to 5 Years)",
       "processingTime": "20-30 business days",
@@ -84,7 +84,7 @@
       ],
       "requirements": [
         "Proof of remote employment or freelance work with non-Spanish companies for at least 3 months.",
-        "Minimum monthly income of at least 200% of the Spanish minimum wage (~EUR 2,646/month).",
+        "Minimum monthly income of at least 200% of the Spanish minimum wage SMI (~EUR 2,849/month or €34,188/year under Real Decreto 126/2026).",
         "Clean criminal record check from countries of residence over the last 5 years.",
         "Comprehensive private health insurance valid in Spain with no co-payments."
       ],
@@ -175,21 +175,26 @@
       "country": "Croatia",
       "countryCode": "HR",
       "visaName": "Temporary Stay of Digital Nomads",
-      "minIncomeUSD": 2760,
+      "minIncomeUSD": 3940,
       "statutoryIncome": {
-        "amount": 2539,
+        "amount": 3622.5,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€2,539 EUR/mo",
+        "formatted": "€3,622.50 EUR/mo",
         "period": "month",
-        "legalFormula": "2.5x Croatian Average Net Monthly Salary"
+        "legalFormula": "2.5x Croatian Average Net Monthly Salary (2.5x €1,449.00 under DZS Notice NN 21/2026)"
       },
       "stayDuration": "Up to 18 months",
       "processingTime": "20-30 business days",
       "taxArchetype": "pure_zero",
       "taxBenefit": "Full exemption from Croatian personal income tax on remote foreign income",
       "taxWarningNote": "Full statutory exemption from Croatian personal income tax for digital nomads earning foreign remote income throughout the permitted temporary stay.",
-      "fees": null,
+      "fees": {
+        "applicationFee": "€55 EUR (Consular national visa / initial MUP filing)",
+        "issuanceFee": "€41.14 EUR (Residence permit issuance fee)",
+        "residencyCardFee": "€31.85 EUR (Biometric residence card)",
+        "totalEstimated": "~€130 EUR total official government fees"
+      },
       "isTaxFree": true,
       "region": "europe",
       "allowedEmployment": [
@@ -199,7 +204,7 @@
       ],
       "requirements": [
         "Proof of remote work for a company or own business outside Croatia",
-        "Minimum monthly income of EUR 2,539 (or equivalent in savings)",
+        "Minimum monthly income of EUR 3,622.50 (2.5x Croatian average net monthly salary) or equivalent in liquid bank savings (€43,470 for 12 months / €65,205 for 18 months)",
         "Valid passport with validity extending 3 months beyond the intended stay",
         "Comprehensive health insurance covering the territory of Croatia"
       ],
