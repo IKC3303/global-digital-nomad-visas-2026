@@ -2,7 +2,7 @@
   "metadata": {
     "provider": "oneisolve.com - Global Nomad Visa Intelligence",
     "license": "Open Data Commons Public Domain Dedication (CC0 / Open Data)",
-    "updatedAt": "2026-11-02T12:51:39.202Z",
+    "updatedAt": "2026-11-03T13:11:38.553Z",
     "totalCount": 40,
     "documentation": "https://oneisolve.com/developers",
     "canonicalUrl": "https://oneisolve.com/dataset.json"
@@ -217,16 +217,16 @@
       "country": "Malaysia",
       "countryCode": "MY",
       "visaName": "DE Rantau Digital Nomad Pass",
-      "minIncomeUSD": 2000,
+      "minIncomeUSD": 3000,
       "statutoryIncome": {
-        "amount": 2000,
+        "amount": 3000,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "Dual-Tier: USD $2,000/mo (Tech) / USD $5,000/mo (Non-Tech)",
+        "formatted": "Dual-Tier: USD $3,000/mo (Tech) / USD $5,000/mo (Non-Tech)",
         "period": "month",
-        "legalFormula": "Dual-Tier: USD $24k/yr (Tech/Digital) / USD $60k/yr (Non-IT/Managerial)"
+        "legalFormula": "Dual-Tier: USD $36k/yr (Tech/Digital) / USD $60k/yr (Non-IT/Managerial) under Enhanced DE Rantau Framework"
       },
-      "stayDuration": "3 to 12 months (Renewable up to an additional 12 months)",
+      "stayDuration": "1 Year (Renewable up to 3 additional years; 4-year cumulative pathway under Enhanced DE Rantau Framework)",
       "processingTime": "4-6 weeks",
       "taxArchetype": "pure_zero",
       "taxBenefit": "Foreign-sourced income is generally exempt from local personal income tax under Malaysia's territorial tax system.",
@@ -245,10 +245,11 @@
         "business_owner"
       ],
       "requirements": [
-        "Dual-tier statutory income: USD $24,000/year (USD $2,000/month) for Digital/Tech talent; USD $60,000/year (USD $5,000/month) for Non-IT/Managerial professionals",
-        "Proof of remote employment contract, active freelance client projects, or business ownership",
-        "Valid passport with at least 14 months of remaining validity",
-        "Health insurance coverage for the duration of stay in Malaysia"
+        "Dual-tier statutory income: USD $36,000/year (USD $3,000/month) for Digital/Tech talent; USD $60,000/year (USD $5,000/month) for Non-IT/Managerial professionals under the Enhanced DE Rantau Framework (effective Dec 1, 2026).",
+        "Note: New application intakes are temporarily paused November 1-30, 2026 during platform migration to the Enhanced DE Rantau framework.",
+        "Proof of remote employment contract, active freelance client projects, or business ownership outside Malaysia.",
+        "Valid passport with at least 14 months of remaining validity.",
+        "Comprehensive health insurance coverage for the duration of stay in Malaysia."
       ],
       "governingBody": "Malaysia Digital Economy Corporation (MDEC) & Immigration Department of Malaysia",
       "officialPortal": "https://mdec.my/derantau",
@@ -348,7 +349,7 @@
         "currencySymbol": "€",
         "formatted": "€3,500 EUR/mo",
         "period": "month",
-        "legalFormula": "Law 4825/2021 Statutory Income Floor"
+        "legalFormula": "Law 5038/2023 Art. 68 Statutory Net Income Floor (€3,500/mo net)"
       },
       "stayDuration": "1 Year (Renewable up to 3 Years)",
       "processingTime": "2-4 weeks",
@@ -413,17 +414,17 @@
       "id": "iceland-remote",
       "country": "Iceland",
       "countryCode": "IS",
-      "visaName": "Long-Term Visa for Remote Workers",
-      "minIncomeUSD": 7300,
+      "visaName": "Long-Term Visa for Remote Workers (Repealed / Discontinued - Visa Act No. 37/2026)",
+      "minIncomeUSD": 0,
       "statutoryIncome": {
-        "amount": 1000000,
+        "amount": 0,
         "currency": "ISK",
         "currencySymbol": "kr ",
-        "formatted": "1,000,000 ISK/mo",
+        "formatted": "Repealed / Discontinued (Visa Act No. 37/2026)",
         "period": "month",
-        "legalFormula": "Directorate of Immigration Requirement"
+        "legalFormula": "Visa Act No. 37/2026 (Lög um vegabréfsáritanir nr. 37/2026) repealing Article 65 of Act on Foreigners No. 80/2016"
       },
-      "stayDuration": "180 days",
+      "stayDuration": "Discontinued (Abolished under Visa Act No. 37/2026)",
       "processingTime": "3-4 weeks",
       "taxArchetype": "standard_global",
       "taxBenefit": "Exempt from Icelandic tax solely because the 180-day stay is legally capped below the 183-day tax residency threshold.",
@@ -437,10 +438,9 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote employment, freelancing, or business ownership outside Iceland",
-        "Minimum monthly income of 1,000,000 ISK for an individual (1,300,000 ISK for couples)",
-        "Comprehensive health insurance covering the duration of stay in Iceland",
-        "Valid passport and clean criminal record"
+        "Program repealed and discontinued under Visa Act No. 37/2026 (Lög um vegabréfsáritanir nr. 37/2026) effective May 13, 2026.",
+        "Dedicated 180-day remote work visa provision in Article 65 of the Foreign Nationals Act abolished; replaced by narrow short-term residence permits restricted to visiting close relatives, artists, scientists, and athletes.",
+        "Active applications under the former 1,000,000 ISK/month criterion are no longer accepted by the Directorate of Immigration or Ministry for Foreign Affairs."
       ],
       "governingBody": "Directorate of Immigration (Útlendingastofnun, Iceland)",
       "officialPortal": "https://island.is/en/o/directorate-of-immigration",
@@ -560,14 +560,14 @@
       "country": "Romania",
       "countryCode": "RO",
       "visaName": "Digital Nomad Visa",
-      "minIncomeUSD": 4020,
+      "minIncomeUSD": 6000,
       "statutoryIncome": {
-        "amount": 3700,
-        "currency": "EUR",
-        "currencySymbol": "€",
-        "formatted": "€3,700 EUR/mo",
+        "amount": 27576,
+        "currency": "RON",
+        "currencySymbol": "RON ",
+        "formatted": "27,576 RON/mo (~€5,540 EUR/mo)",
         "period": "month",
-        "legalFormula": "3x Average Gross Monthly Salary"
+        "legalFormula": "3x Average Gross Monthly Salary (3x 9,192 RON under Law No. 44/2026 Art. 20)"
       },
       "stayDuration": "1 Year (Renewable for 1 additional year)",
       "processingTime": "30-45 days",
@@ -583,10 +583,10 @@
         "business_owner"
       ],
       "requirements": [
-        "Proof of remote employment or business ownership registered outside Romania for at least 3 months",
-        "Proof of minimum income of 3,700 EUR per month (3x Romanian average gross salary) for the last 6 months",
-        "Valid health insurance covering Romania for the visa duration",
-        "Clean criminal record certificate"
+        "Proof of remote employment or business ownership registered outside Romania for at least 3 years prior to application.",
+        "Proof of minimum income of 27,576 RON per month (~€5,540 EUR/mo or ~$6,000 USD; 3x the statutory average gross wage of 9,192 RON under Law No. 44/2026) demonstrated for the preceding 6 consecutive months.",
+        "Valid comprehensive health insurance covering Romania for the visa duration with minimum €30,000 coverage.",
+        "Clean criminal record certificate with apostille or super-legalization and sworn Romanian translation."
       ],
       "governingBody": "General Inspectorate for Immigration (IGI Romania) & Ministry of Foreign Affairs",
       "officialPortal": "https://eviza.mae.ro/",
@@ -980,14 +980,14 @@
       "country": "Malta",
       "countryCode": "MT",
       "visaName": "Nomad Residence Permit",
-      "minIncomeUSD": 2950,
+      "minIncomeUSD": 3800,
       "statutoryIncome": {
-        "amount": 2700,
+        "amount": 3500,
         "currency": "EUR",
         "currencySymbol": "€",
-        "formatted": "€2,700 EUR/mo",
+        "formatted": "€3,500 EUR/mo (€42,000 EUR/yr gross)",
         "period": "month",
-        "legalFormula": "Residency Malta Statutory Threshold"
+        "legalFormula": "Residency Malta Nomad Residence Permit Statutory Threshold (S.L. 217.25)"
       },
       "stayDuration": "1 Year (Renewable up to 4 Years)",
       "processingTime": "30-45 business days",
@@ -1003,10 +1003,10 @@
         "business_owner"
       ],
       "requirements": [
-        "Gross monthly income of at least EUR 2,700 (~$2,950 USD)",
-        "Valid employment or freelance contract with entities registered outside Malta",
-        "Proof of valid lease accommodation in Malta",
-        "Comprehensive medical insurance policy covering Schengen area"
+        "Gross monthly income of at least EUR 3,500 (€42,000 EUR/year gross; ~$3,800 USD) demonstrated via 3 consecutive months of bank statements and payslips (applications submitted prior to April 1, 2024 remain grandfathered at €2,700/mo).",
+        "Valid employment or freelance contract with entities registered outside Malta.",
+        "Proof of valid lease accommodation in Malta registered with the Housing Authority.",
+        "Comprehensive medical insurance policy covering Schengen area."
       ],
       "governingBody": "Residency Malta Agency (RMA)",
       "officialPortal": "https://residencymalta.gov.mt/nomad-residence-permit/",
@@ -1103,7 +1103,7 @@
         "currencySymbol": "€",
         "formatted": "€3,000 EUR/mo",
         "period": "month",
-        "legalFormula": "Act on Third-Country Nationals (White Card)"
+        "legalFormula": "Act XC of 2023 / Decree 35/2024 (€3,000/mo net for prior 6 months)"
       },
       "stayDuration": "1 Year (Renewable for 1 additional year)",
       "processingTime": "21-30 calendar days",
@@ -1119,7 +1119,7 @@
         "business_owner"
       ],
       "requirements": [
-        "Monthly verified income of at least EUR 3,000 for the preceding 6 months",
+        "Monthly verified net income of at least EUR 3,000 for at least 6 consecutive months prior to application and maintained throughout stay",
         "Employment with a company outside Hungary or shareholding in a foreign enterprise",
         "Valid lease agreement in Hungary and comprehensive health insurance",
         "Clean criminal record"
@@ -1169,17 +1169,17 @@
       "id": "georgia-remotely",
       "country": "Georgia",
       "countryCode": "GE",
-      "visaName": "Remotely from Georgia & 365-Day Visa-Free",
-      "minIncomeUSD": 2000,
+      "visaName": "365-Day Visa-Free Remote Stay (Ordinance No. 255)",
+      "minIncomeUSD": 0,
       "statutoryIncome": {
-        "amount": 2000,
+        "amount": 0,
         "currency": "USD",
         "currencySymbol": "$",
-        "formatted": "$2,000 USD/mo (or $24,000 savings)",
+        "formatted": "No Statutory Income Floor (365-Day Visa-Free Stay; Work Registration Required >90 Days)",
         "period": "month",
-        "legalFormula": "Remotely from Georgia Directive"
+        "legalFormula": "Government Ordinance No. 255 & Law on Labor Migration ('Remotely from Georgia' Sunset)"
       },
-      "stayDuration": "360 Days (Visa-Free for 95+ nationalities, easily reset via border run)",
+      "stayDuration": "Up to 365 days visa-free (Annual border run or residency transition; registration required >90 days)",
       "processingTime": "Instant arrival / 10 business days for Individual Entrepreneur tax status",
       "taxArchetype": "business_concession",
       "taxBenefit": "Eligible for Small Business Status offering a flat 1% income tax rate on annual revenue up to 500,000 GEL (~$185,000 USD).",
@@ -1198,10 +1198,10 @@
         "business_owner"
       ],
       "requirements": [
-        "Minimum monthly income of $2,000 USD or equivalent in savings",
-        "Citizen of one of the 95+ visa-free countries",
-        "Valid health insurance policy for full stay duration",
-        "Proof of remote contracts or freelance portfolio"
+        "Citizen of one of the 95+ visa-free countries permitted to stay up to 365 days without a prior visa under Ordinance No. 255.",
+        "The COVID-era 'Remotely from Georgia' application portal is officially sunset; no statutory $2,000 USD monthly income floor is required for entry.",
+        "Foreign nationals residing and working remotely in Georgia for more than 90 days must comply with the Law on Labor Migration regulations (effective March 1, 2026), registering with the Ministry of IDPs, Labour, Health and Social Affairs.",
+        "Optional Small Business Status registration with Revenue Service for 1% flat turnover tax on earnings up to 500,000 GEL."
       ],
       "governingBody": "Ministry of Economy and Sustainable Development & Public Service Hall (Georgia)",
       "officialPortal": "https://migration.commission.ge/",
